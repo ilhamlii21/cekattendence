@@ -1,6 +1,6 @@
 # CekAttendence
 
-Aplikasi absensi karyawan barbershop berbasis Flutter dengan QR Code scanning dan autentikasi JWT yang aman.
+Cek fitur dengan QR Code scanning dan autentikasi JWT yang aman.
 
 ## Fitur Utama
 
